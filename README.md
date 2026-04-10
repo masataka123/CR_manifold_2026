@@ -7,16 +7,20 @@
 大阪公立大学で開催される研究集会, [複素幾何学への多角的アプローチ](https://tkoike.com/multi_appr_cpx_geom/)の二日前から行います. 
 
 ## 講演者
-
-T.B.A
+- 竹内 有哉 (筑波大学)
+- 平地 健吾 (東京大学)
+- 松本 周也 (東京大学)
 
 ## プログラム・スケジュール・講演内容
 
-T.B.A
+1. レクチャー (90分2コマ)
+- 平地 健吾 (東京大学)
+
+2. 通常講演 (60分1コマ)
+- 竹内 有哉 (筑波大学)
+- 松本 周也 (東京大学)
 
 <!--
-
-
 ## プログラム・スケジュール・講演内容
 
 [プログラムのpdf](https://masataka123.github.io/Oka_manifold_2025/material/program_Oka_manifold.pdf)
@@ -98,7 +102,7 @@ Here is the PDF file of program and abstracts. [Program](https://masataka123.git
 何かご質問がありましたら, 岩井(masataka[at]math.sci.osaka-u.ac.jp)までご連絡ください.
 
 ## その他
-この勉強会の次の日から大阪公立大学にて[複素幾何学への多角的アプローチ](https://tkoike.com/multi_appr_cpx_geom/))が開催されます. 
+この勉強会の次の日から大阪公立大学にて[複素幾何学への多角的アプローチ](https://tkoike.com/multi_appr_cpx_geom/)が開催されます. 
 お時間のある方はこちらの研究集会にもご参加ください. 
 
 ## 過去の勉強会シリーズ
