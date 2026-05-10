@@ -103,9 +103,9 @@ Here is the PDF file of program and abstracts. [Program](https://masataka123.git
 
 - [岩井 雅崇](https://masataka123.github.io/blog3/) (大阪大学)
 - [日下部 佑太](https://kusakabe.github.io) (九州大学)
-- 鈴木 良明 (大阪大学)
+- [鈴木 良明](https://sites.google.com/view/yoshiaki-suzuki-math/home) (大阪大学)
 - 松本 周也 (東京大学)
-- 村上 怜 (大阪公立大学)
+- [村上 怜](https://sites.google.com/view/math-reimurakami/home?authuser=0) (大阪公立大学)
 
 何かご質問がありましたら, 岩井(masataka[at]math.sci.osaka-u.ac.jp)までご連絡ください.
 
