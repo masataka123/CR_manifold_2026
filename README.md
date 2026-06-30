@@ -118,17 +118,17 @@ Here is the PDF file of program and abstracts. [Program](https://masataka123.git
 - [2025年 岡多様体の勉強会](https://masataka123.github.io/Oka_manifold_2025/)
 
 
+## 科研費
+この集会は以下の科学研究費補助金の補助により開催されます.
+-  若手研究「オービフォルド構造に注目した非負曲率の研究および代数多様体の分類理論への応用」 （代表：岩井 雅崇（大阪大学）課題番号22K13907 ）
+
+
 <!-- 
 
 ## 科研費
 この集会は以下の科学研究費補助金の補助により開催されます.
 -  基盤研究(A)「複素多様体の解析幾何」（代表：平地 健吾（東京大学）課題番号20H00116 ）
 -  若手研究「オービフォルド構造に注目した非負曲率の研究および代数多様体の分類理論への応用」 （代表：岩井 雅崇（大阪大学）課題番号22K13907 ）
-
-- JSPS KAKENHI  22KK0232 Fund for the Promotion of Joint International Research (Fostering Joint International Research (A)) (Koike)
-- JSPS KAKENHI 21H00976 Grant-in-Aid for Scientific Research (B) (Matsumura)
-- JSPS KAKENHI 22K13903 Grant-in-Aid for Early-Career Scientists (Matsuzawa)
-
 
 ## Other informations
 - There is a hotel around Tennoji (天王寺) or Nishinari (西成) where you can stay for around 3,000 yen. However, it is not a  good hotel, so we do not recommend you book it. 
