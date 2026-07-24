@@ -29,6 +29,8 @@
 **この予定は暫定的なもので, 変更の可能性があります.** 
 詳しいプログラム・スケジュールは7-8月ごろにお伝えいたします. 
 
+  
+
 <!--
 ## プログラム・スケジュール・講演内容
 
@@ -79,26 +81,18 @@ Stein多様体の埋め込み先の最小次元について
 <!--
 Here is the PDF file of program and abstracts. [Program](https://masataka123.github.io/tangent_anticanonical/material/program_tangent_anticanonical.pdf)
 
+-->
 
-## アクセス方法
 
-大阪大学 南部陽一郎ホール (豊中キャンパス)へのアクセス方法は二つあります
+## アクセス
 
-1. 柴原阪大前駅 (大阪モノレール)からくる方法
-駅から徒歩8分程度かかります. 柴原阪大前駅からのアクセス方法に関しては[こちら](https://masataka123.github.io/2024scvwinter/material/access_shibahara.pdf)をご覧ください. 
-2.  石橋阪大前駅 (阪急電鉄)からくる方法
-駅から徒歩30分程度かかります.石橋阪大前駅からのアクセス方法に関しては [こちら](https://masataka123.github.io/2024scvwinter/material/access_ishibashi.pdf)をご覧ください. 
-
-南部陽一郎ホールはJ棟にあり, ローソンのある建物が目印です. 
-さらなる情報に関しては[南部陽一郎ホールのページ](https://www.sci.osaka-u.ac.jp/ja/nambu-hall/)をご覧ください. 
-\
-
+アクセスに関しては[大阪公立大学数学研究所のページ](https://www.omu.ac.jp/orp/ocami/about/directions/)をご覧ください. 
+補足すると大阪公立大学 杉本キャンパスの最寄駅はJR阪和線 杉本町駅(東口)で, 
+理学部E棟は上のホームページにある杉本キャンパスマップの12番の南側です. 
+  
 ## ノート
 
 勉強会終了後に許可が取れた講演のノートをアップロードいたします. 
-
--->
-
  
 ## 世話人
 
