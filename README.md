@@ -51,7 +51,7 @@ Heisenberg解析への誘い
 ツイスターCR多様体について
 
 
-アブストラクトに関しては[プログラム](https://masataka123.github.io/Oka_manifold_2025/material/program_Oka_manifold.pdf)をご覧ください. 
+アブストラクトに関しては[プログラム](https://masataka123.github.io/CR_manifold_2026/material/program_CR_manifold.pdf)をご覧ください. 
 
 
 <!--
