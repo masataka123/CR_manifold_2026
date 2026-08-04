@@ -1,0 +1,257 @@
+\documentclass[dvipdfmx,a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+%\usepackage[dvipdfmx]{hyperref} %リンクを有効にする
+\usepackage{url} %同上
+\usepackage{amsmath,amssymb} %もちろん
+\usepackage{amsfonts,amsthm,mathtools} %もちろん
+\usepackage{braket,physics} %あると便利なやつ
+\usepackage{bm} %ラプラシアンで使った
+\usepackage[top=30truemm,bottom=30truemm,left=25truemm,right=25truemm]{geometry} %余白設定
+\usepackage{latexsym} %ごくたまに必要になる
+\renewcommand{\kanjifamilydefault}{\gtdefault}
+\usepackage{otf} %宗教上の理由でmin10が嫌いなので
+
+
+\usepackage[all]{xy}
+\usepackage{amsthm,amsmath,amssymb,comment}
+\usepackage{amsmath}    % \UTF{00E6}\UTF{0095}°\UTF{00E5}\UTF{00AD}\UTF{00A6}\UTF{00E7}\UTF{0094}¨
+\usepackage{amssymb}  
+\usepackage{color}
+\usepackage{amscd}
+\usepackage{amsthm}  
+\usepackage{wrapfig}
+\usepackage{comment}	
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{pxrubrica}
+\usepackage{enumitem}
+\usepackage{mathrsfs} 
+\usepackage[dvipdfmx]{hyperref}
+\setstretch{1.2}
+
+\newcommand{\mathsym}[1]{{}}
+\newcommand{\unicode}[1]{{}}
+
+\newcounter{mathematicapage}
+
+
+%%%%%%%%% Theorem-like environment %%%%%%%%%%%
+%
+\theoremstyle{plain} %text of this environment is typesetted in italics
+\newtheorem{theorem}{\indent\sc Theorem}[section]
+\newtheorem{lemma}[theorem]{\indent\sc Lemma}
+\newtheorem{corollary}[theorem]{\indent\sc Corollary}
+\newtheorem{proposition}[theorem]{\indent\sc Proposition}
+\newtheorem{claim}[theorem]{\indent\sc Claim}
+\newtheorem{conjecture}[theorem]{\indent\sc Conjecture}
+%
+\theoremstyle{definition} %text of this environment is typesetted in roman letters
+\newtheorem{definition}[theorem]{\indent\sc Definition}
+\newtheorem{remark}[theorem]{\indent\sc Remark}
+\newtheorem{example}[theorem]{\indent\sc Example}
+\newtheorem{notation}[theorem]{\indent\sc Notation}
+\newtheorem{assertion}[theorem]{\indent\sc Assertion}
+\newtheorem{observation}[theorem]{\indent\sc Observation}
+\newtheorem{problem}[theorem]{\indent\sc Problem}
+\newtheorem{question}[theorem]{\indent\sc Question}
+%
+%If a theorem-like environment should not be numbered,
+%add * after \newtheorem, and delete the counter option such as [theorem].
+\newtheorem*{remark0}{\indent\sc Remark}
+%
+%%%%% Proof %%%%%
+\renewcommand{\proofname}{\indent\sc Proof.}
+%The following commands are available in the proof environment:
+%\begin{proof}
+%\end{proof}
+%The end of a proof is marked with a square.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{center}
+  {\LARGE CR多様体の勉強会}
+ 
+  %{\large -Around positivity of tangent sheaves and anti-canonical divisors-}
+  %\vskip2mm{\LARGE Prospects and Open Problems \\ in Higher-dimensional Algebraic Geometry}
+  \end{center}
+  
+\vskip5mm
+\begin{flushleft}
+{ 日時: 2026年9月12日(土)午後 -- 13日(日)}
+
+
+{ 場所: 大阪公立大学 理学部E棟大講究室 E408教室}
+
+ホームページ: \url{https://masataka123.github.io/CR_manifold_2026/}
+
+\end{flushleft}
+
+
+%\footnote{ホームページ: \texttt{https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry-in-osaka-2023?authuser=0}}
+%\footnote{This conference is supported by Osaka City University Advanced Mathematical Institute: MEXT Joint Usage/Research Center on Mathematics and Theoretical Physics.}
+
+
+\vskip5mm
+\noindent{\Large \bf プログラム}
+\vskip3mm
+
+\noindent{\bf 2026年9月12日(土)}
+
+\vskip1mm
+\noindent {\bf 13:30-15:00}
+{\bf 平地 健吾 (東京大学)}\\
+CR多様体入門 I
+\vskip3mm
+
+\noindent {\bf 15:30-17:00}
+{\bf 松本 佳彦 (大阪大学)}\\
+CR構造と正規Cartan接続
+\vskip5mm
+
+\noindent{\bf 2026年9月13日(日)}
+\vskip1mm
+\noindent  {\bf 10:00-11:30}
+{\bf 平地 健吾 (東京大学)}\\
+CR多様体入門 II
+\vskip3mm
+
+\noindent {\bf 13:00-14:00}
+{\bf 松本 周也 (東京大学)}\\
+Burns--Epstein不変量とその一般化
+\vskip3mm
+
+\noindent {\bf 14:30-15:30}
+{\bf 竹内 有哉 (筑波大学)}\\
+Heisenberg解析への誘い
+\vskip3mm
+
+\noindent {\bf 16:00-17:00}
+{\bf 丸亀 泰二 (電気通信大学)}\\
+ツイスターCR多様体について 
+\vskip5mm
+
+  
+  
+  \vskip5mm
+  \noindent{\large \bf 世話人}
+\begin{itemize}
+  \setlength{\parskip}{0cm} 
+  \setlength{\itemsep}{0cm}
+\item 岩井 雅崇 (大阪大学)
+\item 日下部 佑太 (九州大学)
+\item 鈴木 良明 (大阪大学)
+\item 松本 周也 (東京大学)
+\item 村上 怜 (大阪公立大学)
+  \end{itemize}
+
+
+\newpage
+
+\noindent{\Large \bf アブストラクト}
+\vskip5mm
+
+\noindent{\large \bf  講義（90分 $\times$ 2コマ、12日午後・13日午前）}
+\vskip5mm
+
+
+\noindent{\bf 平地 健吾 (東京大学)} \\
+CR多様体入門
+\vskip3mm
+本講義では、強擬凸CR多様体の幾何を、複素領域の境界としての立場から導入し、ベルグマン核の境界漸近展開、局所CR不変量、CR版\(Q\)曲率および繰り込み体積へと展開する。第一回では古典的・具体的な理論とベルグマン核の境界挙動を中心に扱い、第二回ではアンビエント計量と放物型不変式論に基づく現代的なCR不変量論を紹介する。
+\vskip8mm
+
+\noindent{\large \bf 2026年9月12日(土) 13:30-15:00} 
+
+CR多様体入門 I
+\vskip3mm
+強擬凸領域の境界としてのCR多様体を導入する。球のベルグマン核・ベルグマン計量、自己同型群 \(\mathrm{SU}(n+1,1)\)、等方部分群 \(\mathrm{P}\)、\(\mathrm{CU}(n)\) とハイゼンベルグ群を具体的に説明する。実楕円体を例に、高次元ではリーマンの写像定理が成り立たないことを見る。
+さらに、Feffermanの拡張定理、局所双正則同値問題、Chern--Moser標準形、Tanaka--Webster接続と曲率、pseudo-Einstein接触形式を扱う。球面近似と複素Monge--Amp\`ere方程式を用いてベルグマン核の境界挙動を調べ、球からの最初のずれを表すCR不変量を紹介する。
+
+\vskip1mm
+キーワード： 強擬凸CR多様体、球面CR構造、ベルグマン核、ベルグマン計量、\(\mathrm{SU}(n+1,1)\)、ハイゼンベルグ群、Fefferman拡張定理、Chern--Moser標準形、Tanaka--Webster接続、pseudo-Einstein構造、複素Monge--Amp\`ere方程式。
+\vskip8mm
+
+\noindent{\large \bf 2026年9月13日(日) 10:00-11:30} 
+
+CR多様体入門 II
+\vskip3mm
+ベルグマン核の漸近展開とFeffermanの放物型不変式論を紹介する。アンビエント計量を用いた局所CR不変量・共形不変量の構成を説明し、CR幾何と共形幾何の対応を強調する。
+さらに、Szeg\H{o}核、CR \(Q\)-曲率、CR・共形GJMS作用素、\(Q'\)-曲率、繰り込み体積を扱い、Hirachi--Marugame--Matsumoto（2017）の結果を解説する。
+
+\vskip1mm
+キーワード： ベルグマン核の漸近展開、放物型不変式論、アンビエント計量、局所CR不変量、Szeg\H{o}核、\(Q\)曲率、GJMS作用素、\(Q\)-prime 曲率、繰り込み体積、CR幾何と共形幾何。
+\vskip8mm
+
+\newpage
+
+\noindent{\large \bf 2026年9月12日(土) 15:30-17:00} 
+\vskip5mm
+
+\noindent{\bf 松本 佳彦 (大阪大学)}\\
+CR構造と正規Cartan接続
+\vskip3mm
+CR構造（ここでは強擬凸CR構造のこと）の幾何はCartan接続の理論に原理的には帰着されます。帰着させる作業のことを「正規Cartan接続の構成」といいます。この講演では、CR構造に対する正規Cartan接続の構成（E. Cartan、田中昇、Chern--Moserによる仕事）を、局所双正則幾何の観点をなるべく活かして説明したいと思います。チェインやBGG作用素といった応用や、Feffermanのアンビエント構成法などの話題との関係にも簡潔に触れる予定です。
+\vskip8mm
+
+\noindent{\large \bf 2026年9月13日(日) 午後(13:00-17:00)} 
+\vskip5mm
+
+\noindent{\bf 松本 周也 (東京大学)}\\
+Burns--Epstein不変量とその一般化
+\vskip3mm
+Burns--Epstein不変量は、3次元強擬凸CR多様体に対して定義される大域CR不変量であり、CR Cartan接続のChern--Simons形式を用いて記述できる。本講演では、まずこの構成においてCartan束の切断の選択が不変量に影響しない仕組みを説明する。さらに、renormalized connectionと特性類の局所化、およびCheeger--Simons微分指標を用いた高次元への一般化を紹介し、これらの構成の関係について述べる。時間が許せば、レンズ空間に対する計算例も紹介する。
+\vskip8mm
+
+\noindent{\bf 竹内 有哉 (筑波大学)}\\
+Heisenberg解析への誘い
+\vskip3mm
+Riemann多様体上の偏微分作用素は，Laplacianに代表されるように楕円型の場合が多く，その解析的枠組みはよく整備されている．一方，CR幾何に現れる偏微分作用素は一般に楕円型ではなく，通常の擬微分作用素の理論を適用することは難しい．この困難を克服するために発展した理論の一つがHeisenberg解析である．Heisenberg解析は，Heisenberg群の非可換な幾何を反映した擬微分作用素の理論であり，CR幾何や劣楕円型作用素の解析において中心的な役割を果たしている．本講演ではまず，Heisenberg群上の代表的な偏微分作用素とその基本解について説明する．次に，これらを表現論の立場から捉え直すことでHeisenberg解析の背後にある考え方を紹介し，最後にいくつかの応用について述べる．
+\vskip8mm
+
+
+\newpage
+
+\noindent{\bf 丸亀 泰二 (電気通信大学)}\\
+ツイスターCR多様体について 
+\vskip3mm
+Penroseのツイスター理論は，4次元自己双対共形多様体に3次元複素多様体(ツイスター空間)を対応させる理論であるが，LeBrunはその3次元版として，任意の3次元共形多様体$(\Sigma, [g])$に対して，ツイスターCR多様体と呼ばれる5次元Lorentz CR多様体が定まることを示した．この講演では，ツイスターCR多様体の定義を説明し，ツイスターCR多様体が3次元複素多様体にCR埋め込み可能であるのは$(\Sigma, [g])$が実解析的な共形多様体と共形同値な場合に限るという，LeBrunの「埋め込み不可能性定理」の証明の概略を紹介する． 
+\vskip8mm
+
+\noindent{\Large \bf その他の情報}
+\vskip5mm
+\noindent{\large \bf お知らせ}
+
+この集会は、同じく大阪公立大学で開催される研究集会
+``複素幾何学への多角的アプローチ''
+（9月14日--17日）に先立ち、その二日前の9月12日・13日に開催します。
+この研究集会と合わせてご出席いただければと思います. 
+なお研究集会 ``複素幾何学への多角的アプローチ''のホームページは以下の通りです.
+\begin{center}
+\url{https://tkoike.com/multi_appr_cpx_geom/}
+\end{center}
+\vskip5mm
+
+\noindent{\large \bf アクセス}
+
+アクセスに関してはこちらをご覧ください. 
+\begin{center}
+\url{https://www.omu.ac.jp/orp/ocami/about/directions/}
+\end{center}
+補足すると大阪公立大学 杉本キャンパスの最寄駅はJR阪和線 杉本町駅(東口)で, 
+理学部E棟は上のホームページにある杉本キャンパスマップの12番の南側です. 
+  \vskip5mm
+
+\noindent{\large \bf 補助}
+
+この集会は以下の科学研究費補助金の補助により開催されます.
+
+\begin{itemize}
+  \setlength{\parskip}{0cm} 
+  \setlength{\itemsep}{0cm}
+\item 若手研究「オービフォルド構造に注目した非負曲率の研究および代数多様体の分類理論への応用」
+ (代表：岩井 雅崇（大阪大学） 課題番号22K13907)
+  \end{itemize}
+
+
+\end{document}
