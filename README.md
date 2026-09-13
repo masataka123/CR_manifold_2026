@@ -47,6 +47,7 @@ Burns–Epstein不変量とその一般化
 3. 14:30--15:30 
 **竹内 有哉 (筑波大学)**<br>
 Heisenberg解析への誘い
+[講演ノート](https://masataka123.github.io/CR_manifold_2026/material/20260913_takeuchi.pdf)
 4. 16:00--17:00 
 **丸亀 泰二 (電気通信大学)**<br>
 ツイスターCR多様体について
