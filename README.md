@@ -34,6 +34,7 @@ CR多様体入門I
 2. 15:30--17:00 
 **松本 佳彦 (大阪大学)**<br>
 CR構造と正規Cartan接続
+[講演ノート](https://masataka123.github.io/CR_manifold_2026/material/20260912_matsumoto.pdf)
 
 ### 2026年9月13日（日）
 
