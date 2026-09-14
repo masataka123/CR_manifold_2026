@@ -51,6 +51,7 @@ Heisenberg解析への誘い
 4. 16:00--17:00 
 **丸亀 泰二 (電気通信大学)**<br>
 ツイスターCR多様体について
+[講演ノート](https://masataka123.github.io/CR_manifold_2026/material/20260913_marugame.pdf)
 
 
 アブストラクトに関しては[プログラム](https://masataka123.github.io/CR_manifold_2026/material/program_CR_manifold.pdf)をご覧ください. 
