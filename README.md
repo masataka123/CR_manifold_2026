@@ -31,6 +31,8 @@
 1. 13:30--15:00 
 **平地 健吾 (東京大学)**<br>
 CR多様体入門I
+[板書ノート(1と2の両方)](https://masataka123.github.io/CR_manifold_2026/material/20260912_Hirachi.pdf)
+
 2. 15:30--17:00 
 **松本 佳彦 (大阪大学)**<br>
 CR構造と正規Cartan接続
@@ -44,6 +46,7 @@ CR 多様体入門II
 2. 13:00--14:00 
 **松本 周也 (東京大学)**<br>
 Burns–Epstein不変量とその一般化
+[講演ノート](https://masataka123.github.io/CR_manifold_2026/material/20260913_Smatumoto.pdf)
 3. 14:30--15:30 
 **竹内 有哉 (筑波大学)**<br>
 Heisenberg解析への誘い
